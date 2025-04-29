@@ -15,7 +15,6 @@ dependencies:
   flutter_bluetooth_basic:
     git:
       url: https://github.com/freres-toque/flutter_bluetooth_basic
-      ref: 890a67b74809c37f6acda66ed08e7db223d91294
 
 dev_dependencies:
   flutter_test:
